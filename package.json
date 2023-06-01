@@ -9,10 +9,7 @@
   "dependencies": {
     "@slidev/cli": "^0.42.3",
     "@slidev/theme-default": "latest",
-    "@slidev/theme-seriph": "latest",
-    "sass": "^1.62.1",
-    "slidev-theme-penguin": "^1.7.1",
-    "vite-svg-loader": "^4.0.0"
+    "@slidev/theme-seriph": "latest"
   },
   "devDependencies": {
     "@iconify-json/logos": "^1.1.31"

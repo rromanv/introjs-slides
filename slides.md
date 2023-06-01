@@ -1,7 +1,5 @@
 ---
-theme: penguin
 title: 📺 Introduction to JavaScript
-layout: intro
 ---
 # 📺 JavaScript
 
@@ -29,8 +27,6 @@ by Rodolfo Roman
 - 🌐 Cross-platform compatibility
 
 ---
-layout: text-window
-reverse: true
 ---
 # 💻 Syntax of JavaScript
 
@@ -102,15 +98,13 @@ console.log(greeting)
 🚀 These libraries and frameworks save developers time and effort by providing pre-built components, efficient rendering, and simplified syntax.
 
 ---
-layout: new-section
 ---
 # 📚 Javascript Variables
  ![working](https://media.giphy.com/media/3oriePtJwgFRRe8JTW/giphy.gif)
 
 ---
-layout: text-image
-media: 'https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif'
 ---
+<!-- media: 'https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif' -->
 # 📚 Javascript Variables
 
 ## Definition and Purpose of Variables in Programming
@@ -170,7 +164,6 @@ var age = 30;
 🌟 Now you know the basics of JavaScript variables! 🌟
 
 ---
-layout: new-section
 ---
 # JavaScript Data Types
 ![full-choices](https://media.giphy.com/media/4RYU6oCqCFMiD8e9G5/giphy.gif)
@@ -318,7 +311,6 @@ let cityName = person.city
 ```
 
 ---
-layout: new-section
 ---
 # JavaScript Operators
 ![full-choices](https://media.giphy.com/media/3owzW5c1tPq63MPmWk/giphy.gif)
